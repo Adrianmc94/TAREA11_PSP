@@ -25,7 +25,7 @@ public class Dominio {
 
     //Creamos el hilo principal
     //Creamos una instancia de DominoThread con número 1 y un máximo 5.
-        Thread primero = new DominioThread(1,5);
+        Thread primero = new DominioThread("Hilo-1",5);
 
         //Arrancamos el 1er hilo
         primero.start();
