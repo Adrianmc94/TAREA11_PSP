@@ -19,15 +19,39 @@ hilo [nombre].
  */
 
 package TAREA11;
-
 public class Dominio {
     public static void main(String[] args) {
 
-    //Creamos el hilo principal
-    //Creamos una instancia de DominoThread con número 1 y un máximo 5.
-        Thread primero = new DominioThread("Hilo-1",5);
+        // 1. Definir el valor por defecto para el número máximo de hilos.
+        int maximoHilos = 5;
 
-        //Arrancamos el 1er hilo
+        // 2. Intentar leer y parsear el argumento de la línea de comandos.
+        if (args.length > 0) {
+            try {
+                // El primer argumento (args[0]) se intenta convertir a entero.
+                int n = Integer.parseInt(args[0]);
+
+                // Asegurar que el número de hilos sea al menos 1.
+                if (n >= 1) {
+                    maximoHilos = n;
+                } else {
+                    // Si el número es menor a 1, se usa el valor por defecto (5).
+                    System.out.println("ADVERTENCIA: El número de hilos debe ser 1 o más. Usando valor por defecto (N=5).");
+                }
+            } catch (NumberFormatException e) {
+                // Si el argumento no es un número válido
+                System.out.println("ADVERTENCIA: Argumento inválido. Usando valor por defecto (N=5).");
+            }
+        } else {
+            // Si no se proporciona ningún argumento, se mantiene el valor por defecto
+            System.out.println("INFO: No se proporcionó argumento. Usando valor por defecto (N=5).");
+        }
+        System.out.println("Iniciando la cadena de dominó con N=" + maximoHilos + " fichas.");
+        // Creamos el primer hilo con el nombre "Hilo-1" y el máximo de hilos calculado.
+        // La variable 'maximoHilos' ahora es la longitud de la cadena de dominó.
+        Thread primero = new DominioThread("Hilo-1", maximoHilos);
+
+        // Arrancamos el 1er hilo.
         primero.start();
     }
 }
