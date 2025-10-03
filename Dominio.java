@@ -17,7 +17,6 @@ que el resto de la cadena ha caído).
 2.5. Finalmente, anunciar que ha finalizado con el formato del estilo: Acabó
 hilo [nombre].
  */
-
 package TAREA11;
 public class Dominio {
     public static void main(String[] args) {
@@ -25,7 +24,7 @@ public class Dominio {
         // 1. Definir el valor por defecto para el número máximo de hilos.
         int maximoHilos = 5;
 
-        // 2. Intentar leer y parsear el argumento de la línea de comandos.
+        // 2. Intentar leer el argumento de la línea de comandos.
         if (args.length > 0) {
             try {
                 // El primer argumento (args[0]) se intenta convertir a entero.
@@ -44,7 +43,7 @@ public class Dominio {
             }
         } else {
             // Si no se proporciona ningún argumento, se mantiene el valor por defecto
-            System.out.println("INFO: No se proporcionó argumento. Usando valor por defecto (N=5).");
+            System.out.println("No se proporcionó argumento. Usando valor por defecto (N=5).");
         }
         System.out.println("Iniciando la cadena de dominó con N=" + maximoHilos + " fichas.");
         // Creamos el primer hilo con el nombre "Hilo-1" y el máximo de hilos calculado.
