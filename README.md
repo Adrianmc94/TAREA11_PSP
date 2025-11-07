@@ -36,6 +36,52 @@
 
 <img width="1535" height="478" alt="image" src="https://github.com/user-attachments/assets/98311006-b7b0-4920-9222-c0ff7413edf6" />
 
+## Acceso a Odoo:
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/9b40bee1-15fe-4867-93ca-f2b605c85a94" />
+( MUY IMPORTANTE, que no me cabia en la captura, solo hay q marcar una pequeña casilla q pone Demo Data )
+<img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/8c9bcfe5-c280-4b4a-8171-5c3e44e82241" />
+
+
+## Acceso a PgAdmin:
+<img width="1912" height="880" alt="image" src="https://github.com/user-attachments/assets/bbd8d235-4251-49ad-baaf-357fe9ba8421" />
+
+### Registramos un nuevo servidor:
+Vamos a Server y le damos a generar nuevo servidor y le ponemos en este caso la siguiente conf: <br>
+
+<img width="863" height="677" alt="image" src="https://github.com/user-attachments/assets/72a5cfe6-b71f-421f-86cd-a551e6af944f" />
+
+<img width="861" height="682" alt="image" src="https://github.com/user-attachments/assets/6085589e-b745-4157-b4b7-0ed06713bdd6" />
+
+<img width="1918" height="772" alt="image" src="https://github.com/user-attachments/assets/6318275b-6990-4194-86cb-deda5f82f3c2" />
+
+# Exploración de Odoo con Datos de Demo:
+### Instalamos los servicios basicos en la barra de busqueda:
+
+<img width="453" height="521" alt="image" src="https://github.com/user-attachments/assets/2fc7d0ff-ef50-4ebb-88d3-a62c0d3aee57" />
+
+### ejemplo de compra:
+
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/10fad573-30d6-45b2-b260-c2ec819086ad" />
+
+### ejemplo de venta:
+
+<img width="1917" height="652" alt="image" src="https://github.com/user-attachments/assets/4b7f6e69-d305-4852-ba4b-85b365c44c79" /> 
+
+### ejemplo de contactos:
+
+
+<img width="1913" height="1003" alt="image" src="https://github.com/user-attachments/assets/463ac8f2-1227-4732-889b-c5583c99287c" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
