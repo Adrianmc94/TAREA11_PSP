@@ -3,7 +3,7 @@
 
 <img width="357" height="337" alt="image" src="https://github.com/user-attachments/assets/8e67aeab-50c0-4522-8e98-81807b7ec80a" />
 
-├── docker-compose.yml  # Archivo principal de Docker Compose
-├── addons              # Carpeta para tus módulos personalizados
-└── config              # Carpeta para archivos de configuración (ej: odoo.conf)
+├── addons              # Carpeta para tus módulos personalizados<br>
+├── config              # Carpeta para archivos de configuración (ej: odoo.conf)<br>
+└── docker-compose.yml  # Archivo principal de Docker Compose <br>
 
