@@ -69,8 +69,14 @@ Vamos a Server y le damos a generar nuevo servidor y le ponemos en este caso la 
 
 ### ejemplo de contactos:
 
-
 <img width="1913" height="1003" alt="image" src="https://github.com/user-attachments/assets/463ac8f2-1227-4732-889b-c5583c99287c" />
+
+# Inspección de la Base de Datos con PgAdmin:
+
+<img width="1915" height="972" alt="image" src="https://github.com/user-attachments/assets/9eedbb49-bd47-46d3-b55a-c8ff44f198bc" />
+
+Vemos que la conexión a PgAdmin fue exitosa. Esto me permite ver y explorar la estructura de la base de datos de Odoo (odoo_dev_db), confirmando que la persistencia de datos funciona correctamente en Docker.
+
 
 
 
