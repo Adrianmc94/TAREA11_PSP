@@ -1,7 +1,7 @@
 # Instalación de Odoo 18, VS Code y Pgadmin
 ### Lo primero que haremos es preparar nuestro entorno de trabajo, en mi caso lo haré en VS Code, creando una carpeta especifica para el trabajo con la siguiente distribución de archivos:
 
-<img width="357" height="337" alt="image" src="https://github.com/user-attachments/assets/8e67aeab-50c0-4522-8e98-81807b7ec80a" />
+<img width="517" height="220" alt="image" src="https://github.com/user-attachments/assets/146b271b-cb4c-4bb8-a547-9980334485ab" />
 
 ├── addons              # Carpeta para tus módulos personalizados<br>
 ├── config              # Carpeta para archivos de configuración (ej: odoo.conf)<br>
@@ -27,7 +27,7 @@
 
 <img width="503" height="361" alt="image" src="https://github.com/user-attachments/assets/082a3962-694f-4a43-96f4-dcb1db37d852" />
 
-<img width="806" height="491" alt="image" src="https://github.com/user-attachments/assets/aee93d91-4350-4854-aba5-e5feef5ee32a" />
+<img width="967" height="422" alt="image" src="https://github.com/user-attachments/assets/fe226c77-60c9-44e4-a1fc-8151bd072f45" />
 
 <img width="562" height="510" alt="image" src="https://github.com/user-attachments/assets/c254b262-f88f-4de5-b19e-a28f50bf792a" />
 
