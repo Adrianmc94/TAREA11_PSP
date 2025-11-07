@@ -21,3 +21,15 @@
 | **Pylint** | **Analiza el código Python** buscando errores y aplicando estándares de estilo. |
 | **Python** | Soporte fundamental para **desarrollo, depuración y ejecución** de código Python. |
 
+
+# Instalación de Odoo 18 Community y PgAdmin con Docker Compose:
+## contenido del archivo .yml:
+
+<img width="503" height="361" alt="image" src="https://github.com/user-attachments/assets/082a3962-694f-4a43-96f4-dcb1db37d852" />
+
+<img width="806" height="491" alt="image" src="https://github.com/user-attachments/assets/aee93d91-4350-4854-aba5-e5feef5ee32a" />
+
+<img width="562" height="510" alt="image" src="https://github.com/user-attachments/assets/c254b262-f88f-4de5-b19e-a28f50bf792a" />
+
+
+
