@@ -27,9 +27,15 @@
 
 <img width="503" height="361" alt="image" src="https://github.com/user-attachments/assets/082a3962-694f-4a43-96f4-dcb1db37d852" />
 
-<img width="967" height="422" alt="image" src="https://github.com/user-attachments/assets/fe226c77-60c9-44e4-a1fc-8151bd072f45" />
+<img width="621" height="397" alt="image" src="https://github.com/user-attachments/assets/9cadbbb6-973b-44ee-bafb-1cf7e8c0a0ee" />
 
 <img width="562" height="510" alt="image" src="https://github.com/user-attachments/assets/c254b262-f88f-4de5-b19e-a28f50bf792a" />
+
+
+### confirmación de que todo funciona:
+
+<img width="1535" height="478" alt="image" src="https://github.com/user-attachments/assets/98311006-b7b0-4920-9222-c0ff7413edf6" />
+
 
 
 
